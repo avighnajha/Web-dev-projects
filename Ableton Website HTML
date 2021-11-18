@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<head>
+    <title>Ableton</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width = device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="https://img.icons8.com/ios/85/000000/ableton.png"/>
+        </div>
+        <ul>
+            <li>Live</li>
+            <li>Push</li>
+            <li>Link</li>
+            <li>Shop</li>
+            <li>Packs</li>
+            <li>Help</li>
+            <li class="more">More+</li>
+            <li class="try">Try for Free</li>
+            <li class="login">Log in or register</li>
+        </ul>
+    </nav>
+    <hr>
+    <div class="undernav">
+        <ul>
+            <li style="color: #ff764d;">About</li>
+            <li>Jobs</li>
+        </ul>
+    </div>
+    <div class="home">
+        <img src="https://ableton-production.imgix.net/about/header.jpg?auto=format&dpr=1.25&fit=crop&fm=jpg&h=238&ixjsv=1.1.3&w=911">
+        <div class="title">Ableton</div>
+    </div>
+    <div class="bodytext">
+        <a>We make</a>
+        <a style="color: #0000ff;">Live</a>
+        <a>, </a>
+        <a style="color: #0000ff;">Push </a>
+        <a style="color: #0000ff;">and </a>
+        <a>Link </a>
+        <a>— unique software and hardware for music creation and performance. With these products, our community of users creates amazing things.</a>
+        <br><br>
+        <a style="font-size: 1.2rem; font-weight: 100;">Ableton was founded in 1999 and released the first version of Live in 2001. Our products are used by a community of dedicated musicians, sound designers, and artists from across the world.</h3>        
+    </div>
+    <div class="images1">
+        <img class="girl1" src="/girl and ableton.jpg">
+        <img class="girl2" src="/girl.jpg">
+        <div class="yellowbox"> </div>
+    </div>
+    </body>
