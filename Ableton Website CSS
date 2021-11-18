@@ -1,0 +1,131 @@
+/* NAVBAR */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-weight: 550;
+}
+.navbar {
+    display: flex;
+    height: 75px;
+}
+.logo {
+    padding-left: 2%;
+}
+
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    align-content: space-around;
+    font-size:larger;
+}
+
+.navbar ul li {
+    list-style: none;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+
+    height:fit-content;
+}
+.navbar ul li:hover{
+    cursor: pointer;
+}
+.more {
+    color: #ff764d;
+}
+.try {
+    color: #0000ff;
+    width: 30px;
+    margin-left: 60%;
+    padding-right: 10%;
+}
+.login {
+    font-size: smaller;
+}
+
+
+/* HOME */
+
+
+hr {
+    height: 2px;
+    background-color: #eee;
+    border: none;
+}
+.undernav {
+    width: 100%;
+    display: flex;
+
+    position: relative;
+}
+.undernav ul{
+    display: flex;
+    list-style-type: none;
+    padding: 1%;
+    margin: 0.25%;
+
+}
+.undernav ul li {
+    padding: 10%;
+    margin-right: 20%;
+}
+.undernav ul li:hover {
+    cursor: pointer;
+}
+
+
+/* IMG+TEXT */
+
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+.home img{
+    position: absolute;
+    z-index: -1;
+    top: 5%;
+}
+.title {
+    font-size: 10rem;
+    color: #ff764d;
+    position: relative;
+    padding-top: 5%;
+}
+
+/* BODY */
+
+.bodytext {
+    width: 65%;
+    font-size: 1.5rem;
+    position: relative;
+    margin-top: 13%;
+    margin-left: 18%;
+    font-weight: bold;
+}
+
+.images1 {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+    margin-top: 5%;
+}
+.girl2 {
+    height: min-content;
+    padding-left: 9%;
+}
+
+.yellowbox {
+    height: 92%;
+    width: 58%;
+    background: #fbffa7;
+    position: absolute;
+    z-index: -1;
+    right: 0;
+}
